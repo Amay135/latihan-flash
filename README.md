@@ -17,19 +17,14 @@ Sebelum menjalankan aplikasi, pastikan Anda telah menginstal:
 1. Clone repositori ini:
    ```bash
    git clone [https://github.com/Amay135/latihan-flash.git](https://github.com/Amay135/latihan-flash.git)
-``
 2. Masuk ke direktori proyek:
-  ```
-  cd latihan-flash
-  ```
+   ```
+   cd latihan-flash
 3. Buat virtual environment (opsional tapi disarankan):
    ```
    python -m venv venv
    source venv/bin/activate  # Untuk Windows: venv\Scripts\activate
 4. Instal dependencies:
-   ```
-   pip install -r requirements.txt
 5. Jalankan aplikasi:
    ```
    python app.py
-   
